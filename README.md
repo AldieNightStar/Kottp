@@ -28,7 +28,7 @@ response = client.post(
 )
 ```
 
-## Asyn
+## Async
 ```kotlin
 // Get request
 var future = client.getAsync()
