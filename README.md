@@ -1,6 +1,10 @@
 # Kottp
 Simple and easy Kotlin http ver 2 client
 
+# Install
+By JitPack: https://jitpack.io/#AldieNightStar/Kottp
+
+# Usage
 ```kotlin
 var client = "https://google.com".kottp
 // Simple get request
